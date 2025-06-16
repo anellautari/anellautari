@@ -11,7 +11,7 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=anellautari&show_icons=true&title_color=f76db2&icon_color=5FC7B2&text_color=54a0e3&bg_color=FCFAF7&border_color=EBC09B" />
+<img src="https://github-readme-stats.vercel.app/api?username=anellautari&show_icons=true&count_private=true&include_all_commits=true&title_color=f76db2&icon_color=5FC7B2&text_color=54a0e3&bg_color=FCFAF7&border_color=EBC09B" />
 
 <br/>
 
