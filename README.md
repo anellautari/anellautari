@@ -42,7 +42,7 @@
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=anellautari&theme=radical&margin-w=8&no-frame=true&exclude=Stars,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anellautari&rank=-?&theme=dracula&margin-w=8" />
 </a>
 
 </div>
