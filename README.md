@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Anella Utari 🌱</h1>
+<h1 align="center">Hi there! 👋 I'm Anella Utari Gunadi 🌱</h1>
 
 ---
 
@@ -8,17 +8,38 @@
 
 ### 📈 GitHub Stats
 
-![Anella's GitHub stats](https://github-readme-stats.vercel.app/api?username=anellautari&show_icons=true&title_color=f76db2&icon_color=5FC7B2&text_color=54a0e3&bg_color=FCFAF7&border_color=EBC09B)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anellautari&layout=compact&title_color=f76db2&text_color=9D9CF0&bg_color=FCFAF7&border_color=B289D9)](https://github.com/anellautari)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=anellautari&show_icons=true&title_color=f76db2&icon_color=5FC7B2&text_color=54a0e3&bg_color=FCFAF7&border_color=EBC09B" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=anellautari&theme=default&ring=fa3e93&fire=B289D9&currStreakLabel=2292f5&sideLabels=5FC7B2&background=FCFAF7&dates=9D9CF0&currStreakNum=2292f5&sideNums=ba79f7&border=EBC09B)](https://git.io/streak-stats)
+<br/>
+
+<!-- Top Languages -->
+<a href="https://github.com/anellautari">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anellautari&layout=compact&title_color=f76db2&text_color=9D9CF0&bg_color=FCFAF7&border_color=B289D9" />
+</a>
+
+<br/>
+
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=anellautari&theme=default&ring=fa3e93&fire=B289D9&currStreakLabel=2292f5&sideLabels=5FC7B2&background=FCFAF7&dates=9D9CF0&currStreakNum=2292f5&sideNums=ba79f7&border=EBC09B" />
+</a>
+
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anellautari&theme=radical&margin-w=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=anellautari&theme=radical&margin-w=8&no-frame=true" />
+</a>
+
+</div>
 
 ---
 
