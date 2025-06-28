@@ -27,13 +27,13 @@
 <br/>
 
 ### 🔥 GitHub Activity
-
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=anellautari&theme=default&ring=fa3e93&fire=B289D9&currStreakLabel=2292f5&sideLabels=5FC7B2&background=FCFAF7&dates=9D9CF0&currStreakNum=2292f5&sideNums=ba79f7&border=EBC09B" />
-</a>
-
 </div>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=anellautari&theme=default&ring=fa3e93&fire=B289D9&currStreakLabel=2292f5&sideLabels=5FC7B2&background=FCFAF7&dates=9D9CF0&currStreakNum=2292f5&sideNums=ba79f7&border=EBC09B" alt="GitHub Streak">
+  </a>
+</p>
 
 ---
 
